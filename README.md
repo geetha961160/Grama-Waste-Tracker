@@ -28,18 +28,7 @@ Many villages face challenges in proper waste collection, illegal dumping, delay
 - View operational metrics
 - Track daily waste collection
 - Monitor complaints and citizen reports
-- Collection performance summary
-
-## Screenshots
-
-### User Complaint Screen
-![]("C:\Users\shree.LAPTOP-CLB7K4C2\OneDrive\Desktop\neww\project pictures\compliaint.jpg")
-
-### Admin Dashboard
-(Add screenshot here)
-
-### Live Tracking Screen
-(Add screenshot here)
+- Collection performance
 
 ## Tech Stack
 
